@@ -1,0 +1,40 @@
+C:\Users\BTLAB1 PC8\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\BTLAB1 PC8\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\BTLAB1 PC8\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\BTLAB1 PC8\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\BTLAB1 PC8\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\BTLAB1 PC8\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\BTLAB1 PC8\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\BTLAB1 PC8\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\BTLAB1 PC8\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\BTLAB1 PC8\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\yenes\OneDrive\Masaüstü\araç otomasyon Enes\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\yenes\OneDrive\Masaüstü\araç otomasyon Enes\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\yenes\OneDrive\Masaüstü\araç otomasyon Enes\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\yenes\OneDrive\Masaüstü\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\yenes\OneDrive\Masaüstü\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\yenes\OneDrive\Masaüstü\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\yenes\OneDrive\Masaüstü\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\yenes\OneDrive\Masaüstü\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\yenes\OneDrive\Masaüstü\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\yenes\OneDrive\Masaüstü\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\muham\OneDrive\Masaüstü\flash\araç otomasyon Enes\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\muham\OneDrive\Masaüstü\flash\araç otomasyon Enes\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\muham\OneDrive\Masaüstü\flash\araç otomasyon Enes\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\muham\OneDrive\Masaüstü\flash\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Masaüstü\flash\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\muham\OneDrive\Masaüstü\flash\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\flash\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\flash\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\flash\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\muham\OneDrive\Masaüstü\flash\araç otomasyon Enes\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
